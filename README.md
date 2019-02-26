@@ -5,7 +5,9 @@ A repository for the "Cheaper Modules" modification for the game Factorio. This 
 I recommend to perform the installation automatically using the download function of the client. If you want a manual installation, please follow these instructions:
 
 Download the "CheaperModules_(version).zip" file after replacing "(version)" with the version number you want to use. The latest version is always available in the root directory of this repository, older version are provided in "/old-releases/".
+
 Place the zip archive you downloaded in the "mods" directory in your user data directory according to https://wiki.factorio.com/Application_directory#User_data_directory. The default values are:
+
 Windows: %appdata%\Factorio
 MacOSX: ~/Library/Application Support/factorio
 Linux distributions: ~/.factorio
