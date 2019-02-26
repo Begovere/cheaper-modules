@@ -9,7 +9,9 @@ Download the "CheaperModules_(version).zip" file after replacing "(version)" wit
 Place the zip archive you downloaded in the "mods" directory in your user data directory according to https://wiki.factorio.com/Application_directory#User_data_directory. The default values are:
 
 Windows: %appdata%\Factorio
+
 MacOSX: ~/Library/Application Support/factorio
+
 Linux distributions: ~/.factorio
 
 Once these steps have been followed, the mod should be activated the next time you start the game.
