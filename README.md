@@ -15,3 +15,15 @@ MacOSX: ~/Library/Application Support/factorio
 Linux distributions: ~/.factorio
 
 Once these steps have been followed, the mod should be activated the next time you start the game.
+
+# What will be changed by this mod?
+This mod reduces the price and crafting time of modules.
+
+Tier 1 modules still cost 5 green curcuits and 5 red curcuits (the Vanilla values) but only 10 second crafting time.
+
+Tier 2 modules cost 2 Tier 1 modules of the same type (red and blue curcuits removed from the recipe) and have 10 second crafting time.
+
+Tier 3 modules cost 2 Tier 2 modules of the same type (red and blue curcuits removed from the recipe) and have 10 second crafting time.
+
+
+This applies to the 3 vanilla modules (Productivity, Efficiency, Speed). Modules from other mods won't be affected by this mod.
