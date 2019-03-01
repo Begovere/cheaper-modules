@@ -12,3 +12,6 @@ Tier 3 modules cost 2 Tier 2 modules of the same type (red and blue curcuits rem
 
 
 This applies to the 3 vanilla modules (Productivity, Efficiency, Speed). Modules from other mods won't be affected by this mod.
+
+# Installation
+You can get the zip files to do a manual installation in the https://github.com/Begovere/factorio-mod-releases repository.
