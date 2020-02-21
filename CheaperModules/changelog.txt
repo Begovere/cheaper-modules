@@ -4,5 +4,9 @@ Date: 27.09.2018
  - Initial Release
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
-Date: 27.02.2019
- - updated for 0.17 compatibility
+Date: 26.02.2019
+ - Updated info.json for 0.17 compatiblity
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 30.01.2020
+ - Updated info.json for 0.18 compatiblity
