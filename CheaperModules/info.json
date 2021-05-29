@@ -1,10 +1,10 @@
 {
   "name": "CheaperModules",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "factorio_version": "1.1",
   "title": "Cheaper Modules",
   "author": "Begovere",
   "contact": "https://forums.factorio.com/memberlist.php?mode=viewprofile&u=62419",
-  "homepage": "",
+  "homepage": "https://github.com/Ferdi-nand/cheaper-modules",
   "description": "Vanilla Modules are cheaper and their crafting time is reduced."
 }

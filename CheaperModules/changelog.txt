@@ -14,3 +14,7 @@ Date: 30.01.2020
 Version: 1.0.3
 Date: 01.12.2020
  - Updated info.json for 1.1 compatiblity
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 29.05.2021
+ - Updated link to GitHub repository in info.json
